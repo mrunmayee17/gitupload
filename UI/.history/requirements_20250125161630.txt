@@ -1,0 +1,4 @@
+streamlit  # Streamlit for the UI
+pymilvus # Milvus Python SDK
+twelvelabs # Twelve Labs Python SDK
+numpy  # NumPy for handling embeddings
